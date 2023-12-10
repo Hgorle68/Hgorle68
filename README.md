@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/1000x1000/26/62/data-analysis-colorful-modern-banner-vector-19132662.webp)](https://hgorle68.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/07/15/68/1000_F_207156885_WFvJzDmtNSNeRMfwdukFwGyNuNypuqpH.jpg)](https://hgorle68.io)
 <h1 align="center">Hi 👋, I'm Hemant Gorle</h1>
 <h3 align="center">A passionate Data Analyst / Business Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
